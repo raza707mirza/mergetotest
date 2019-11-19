@@ -26,6 +26,7 @@ namespace Mentor.Core.Geography
         /// </summary>
         public enum TransportationMode
         {
+            All,
             Unknown,
             Driving,
             Walking,
